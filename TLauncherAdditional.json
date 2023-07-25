@@ -4271,6 +4271,109 @@
           "available": true,
           "parser": true,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 289479,
+          "name": "MrCrayfish's Gun Mod",
+          "author": "Mr_Crayfish",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 484427,
+          "pictures": [
+            209086,
+            209085,
+            484555
+          ],
+          "lanName": "mrcrayfishs-gun-mod",
+          "version": {
+            "id": 2854400,
+            "name": "guns-0.15.3-1.12.2",
+            "updateDate": 1578085200000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "0b52ae06c251073ef046e9528ccb1ccfb3168e68",
+              "size": 814386,
+              "path": "mods/guns-0.15.3-1.12.2.jar",
+              "url": "/mods/289479/2854400/guns-0.15.3-1.12.2.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 28467,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1050,
+              "name": "Catalogue",
+              "gameEntityId": 459701,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 1058,
+              "name": "Framework",
+              "gameEntityId": 549225,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 1016,
+              "name": "Controllable (Forge)",
+              "gameEntityId": 317269,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 5014,
+              "name": "Backpacked",
+              "gameEntityId": 352835,
+              "dependencyType": "optional"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 44,
+            "name": "1.19.4"
+          },
+          "updated": 1687035600000,
+          "update": 1687035600000,
+          "downloadALL": 9831900,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
