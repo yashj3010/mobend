@@ -4393,6 +4393,282 @@
           "available": false,
           "parser": false,
           "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 230651,
+          "name": "Lucraft Core",
+          "author": "Lucraft",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/lucraft-core",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 23,
+              "name": "world_ores_resources",
+              "shortName": "ores",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 317466,
+          "pictures": [],
+          "lanName": "lucraft-core",
+          "version": {
+            "id": 3775980,
+            "name": "1.12.2-2.4.17",
+            "updateDate": 1651372860000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "8bc7f98bc4572da23f36bfa72f44eb389fec860d",
+              "size": 1400633,
+              "path": "mods/LucraftCore-1.12.2-2.4.17.jar",
+              "url": "/mods/230651/3775980/LucraftCore-1.12.2-2.4.17.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 500,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 126,
+              "name": "Thermal Expansion",
+              "gameEntityId": 69163,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 72,
+              "name": "Tinkers Construct",
+              "gameEntityId": 74072,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 139,
+              "name": "Redstone Flux",
+              "gameEntityId": 270789,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 53,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 293,
+              "name": "Immersive Engineering",
+              "gameEntityId": 231951,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1679822024000,
+          "update": 1679822024000,
+          "downloadALL": 563851,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 231951,
+          "name": "Immersive Engineering",
+          "author": "BluSunrize Mr_Hazard malte0811",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/immersive-engineering",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 30,
+              "name": "technology_processing",
+              "shortName": "processing",
+              "nesting": 0
+            },
+            {
+              "id": 20,
+              "name": "technology_item_fluid_energy_transport",
+              "shortName": "fluid",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            },
+            {
+              "id": 12,
+              "name": "technology_energy",
+              "shortName": "energy",
+              "nesting": 0
+            }
+          ],
+          "picture": 451667,
+          "pictures": [],
+          "lanName": "immersive-engineering",
+          "version": {
+            "id": 2974106,
+            "name": "0.12-98",
+            "updateDate": 1591438824000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "633070d9c447fdaf6a9ead59425017815c890c63",
+              "size": 6360959,
+              "path": "mods/ImmersiveEngineering-0.12-98.jar",
+              "url": "/mods/231951/2974106/ImmersiveEngineering-0.12-98.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 3327,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 44,
+            "name": "1.19.4"
+          },
+          "updated": 1684011600000,
+          "update": 1684011600000,
+          "downloadALL": 3032680,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 230652,
+          "name": "IronMan",
+          "author": "Lucraft",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ironman",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 12,
+              "name": "technology_energy",
+              "shortName": "energy",
+              "nesting": 0
+            }
+          ],
+          "picture": 13446,
+          "pictures": [],
+          "lanName": "ironman",
+          "version": {
+            "id": 2676953,
+            "name": "1.12.2-Beta-1.12.2-1.2.6",
+            "updateDate": 1550523600000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 1,
+                "name": "1.12.2"
+              }
+            ],
+            "metadata": {
+              "sha1": "f8e11cc44d058bb38ab2c72e22c62e320c94b763",
+              "size": 361128,
+              "path": "mods/IronMan-1.12.2-Beta-1.12.2-1.2.6.jar",
+              "url": "/mods/230652/2676953/IronMan-1.12.2-Beta-1.12.2-1.2.6.jar"
+            },
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 393,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 294,
+              "name": "Lucraft Core",
+              "gameEntityId": 230651,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 1,
+            "name": "1.12.2"
+          },
+          "updated": 1580733083000,
+          "update": 1580733083000,
+          "downloadALL": 215459,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -2137899874200,
+          "name": "ImmersiveEngineering-core-0.12-98",
+          "favorite": false,
+          "version": {
+            "id": -2137900226100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "c38e4693e209fa8edc16a7558f0e332e9d448fd5",
+              "size": 5971,
+              "path": "mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar",
+              "url": "mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
